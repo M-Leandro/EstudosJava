@@ -1,3 +1,3 @@
-Gerador de Frases (Phrase-O-Matic)
+Gerador de Frases
 
-Este é um programa em Java que gera frases corporativas aleatórias ("buzzwords"). Criado para praticar lógica de programação, uso de Arrays e a classe Math.random().
+Este é um programa em Java que gera frases corporativas aleatórias. Criado para praticar lógica de programação, uso de Arrays e a classe Math.random().
